@@ -44,7 +44,8 @@ This case study project focuses on analyzing transactional retail sales data usi
 
 The schema is visualized below:
 
-![ERD Schema](Schemas.png)
+![ERD Schema](<img width="1150" height="830" alt="Schema" src="https://github.com/user-attachments/assets/65941ce6-76db-49bc-8c48-bf8abd76c3be" />
+)
 
 ---
 
